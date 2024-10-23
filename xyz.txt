@@ -1,2 +1,3 @@
 creating new file for short status
 creating files i working dir
+adding new lines
