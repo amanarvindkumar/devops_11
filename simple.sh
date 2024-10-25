@@ -7,5 +7,6 @@ echo "entered name is $a"
 else
 echo "entered name is not $a"
 date
-
+uname -a
+uptime
 
